@@ -1,5 +1,5 @@
 {
-    "name": "tibonilab/pdf-lumen-bundle",
+    "name": "andrelokal/pdf-lumen-bundle",
     "description": "compatibility fork of tibonilab/pdf (dompdf wrapper) for Laravel Lumen",
     "keywords": ["pdf", "dompdf", "laravel", "lumen"],
     "license": "MIT",
