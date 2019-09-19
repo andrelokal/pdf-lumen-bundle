@@ -1,4 +1,4 @@
-<?php namespace tibonilab\Pdf;
+<?php namespace andrelokal\Pdf;
 
 use Illuminate\Http\Response;
 use Dompdf\Dompdf;
